@@ -2,3 +2,9 @@
   "createdAt": "2021-09-06T21:29:16.414Z",
   "updatedAt": "2021-12-20T18:47:10.392Z"
 }
+setInterval(function(name, age) {
+  console.log(`Раз в секунду печатаю имя «${name}» и ${age}`)
+}, 1000, 'maining97@mail.ru', 33)
+
+// Раз в секунду печатаю имя «»Имя
+Aleksey и 33
